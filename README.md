@@ -1,56 +1,56 @@
 # 🧠 Natural or Fake Natty? — Data Analytics Edition
 
-## 📒 Descrição
-Este projeto explora o conceito **“Natty or Not”** aplicado à **Análise de Dados**, investigando até que ponto a Inteligência Artificial pode substituir, complementar ou potencializar o trabalho humano.
+## 📒 Description
+This project explores the **“Natty or Not”** concept applied to **Data Analytics**, questioning how far Artificial Intelligence can go in replacing, supporting, or enhancing human analytical work.
 
-Através de um dashboard analítico, com dados simulados, comparamos a performance de análises realizadas por humanos e por IA, avaliando métricas como precisão, tempo de execução, geração de insights e taxa de erro.
+Using a simulated dataset and an interactive dashboard, the project compares **human analysts versus AI-driven analysis**, evaluating metrics such as accuracy, execution time, insights generated, and error rates.
 
-O objetivo é provocar reflexão:  
-👉 A IA realmente substitui o analista ou apenas amplia sua capacidade?
-
----
-
-## 🤖 Tecnologias Utilizadas
-- **Power BI** – Criação de dashboard interativo  
-- **ChatGPT** – Geração de narrativa, estrutura analítica e insights  
-- **CSV Dataset (simulado)** – Base de dados para análise  
-- **GitHub** – Versionamento e portfólio  
-- **DALL·E / Image Generator** – Criação de imagem conceitual  
+The goal is to provoke a key reflection:  
+👉 *Is AI replacing analysts — or empowering them?*
 
 ---
 
-## 🧐 Processo de Criação
-1. Definição do conceito *Natty or Not* aplicado à análise de dados  
-2. Criação de um dataset fictício comparando humanos e IA  
-3. Desenvolvimento de métricas e KPIs estratégicos  
-4. Construção de visualizações no Power BI  
-5. Geração de insights e storytelling analítico  
+## 🤖 Technologies Used
+- **Power BI** – Interactive dashboard creation  
+- **ChatGPT** – Narrative development, data storytelling, insights generation and conceptual image creation 
+- **CSV Dataset (simulated)** – Analytical data source  
+- **GitHub** – Version control and project documentation  
 
 ---
 
-## 📊 Estrutura do Dashboard
+## 🧐 Project Workflow
+1. Definition of the **Natty or Not** concept applied to data analytics  
+2. Creation of a fictional dataset comparing Human vs AI performance  
+3. Development of KPIs and analytical measures  
+4. Dashboard design and visualization in Power BI  
+5. Insight generation and analytical storytelling  
 
-### KPIs Principais:
-- **Avg Accuracy (Human)**
-- **Avg Accuracy (AI)**
-- **Avg Time Spent**
+---
+
+## 📊 Dashboard Structure
+
+### Key KPIs
+- **Average Accuracy (Human vs AI)**
+- **Average Time Spent**
 - **Efficiency Gain**
 - **Error Reduction**
 
-### Visualizações:
-- Comparativo de precisão (Human vs AI)
-- Tempo médio de execução por tipo de analista
-- Gráfico de dispersão (Tempo x Precisão)
-- Tabela detalhada por tipo de tarefa
+### Visualizations
+- Accuracy comparison by task  
+- Execution time comparison (Human vs AI)  
+- Scatter plot (Time × Accuracy × Insights Generated)  
+- Detailed performance table  
 
 ---
 
-## 🚀 Resultados
-- A IA apresentou maior eficiência operacional e menor taxa de erro.
-- Humanos mantêm vantagem em interpretação estratégica e contexto.
-- O melhor desempenho ocorre quando **IA + Humano trabalham juntos**.
+## 🚀 Results
+- AI shows significantly higher operational efficiency and faster execution times.
+- Human analysts still excel in contextual reasoning and strategic interpretation.
+- The best results occur when **human expertise is augmented by AI tools**.
 
 ---
 
-## 💭 Reflexão Final
-> "A IA não substitui o analista. Ela potencializa quem sabe fazer as perguntas certas."
+## 💭 Final Reflection
+> *“AI doesn’t replace analysts — it amplifies their ability to make better decisions.”*
+## 🧩 Optional
+A Portuguese version of this README can be added if needed.
