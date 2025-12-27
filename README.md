@@ -43,6 +43,13 @@ The goal is to provoke a key reflection:
 
 ---
 
+## ✨ Project Purpose
+
+This project aims to explore how artificial intelligence and human expertise can work together in data analytics.
+Rather than positioning AI as a replacement, the goal is to analyze how collaboration between humans and AI leads to better decision-making and performance.
+
+---
+
 ## 🚀 Results
 - AI shows significantly higher operational efficiency and faster execution times.
 - Human analysts still excel in contextual reasoning and strategic interpretation.
