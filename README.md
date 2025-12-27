@@ -31,7 +31,7 @@ The goal is to provoke a key reflection:
 
 ### Key KPIs
 - **Average Accuracy (Human vs AI)**
-- **Average Time Spent**
+- **Average Time Spent (Human vs AI)**
 - **Efficiency Gain**
 - **Error Reduction**
 
