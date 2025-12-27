@@ -52,5 +52,3 @@ The goal is to provoke a key reflection:
 
 ## 💭 Final Reflection
 > *“AI doesn’t replace analysts — it amplifies their ability to make better decisions.”*
-## 🧩 Optional
-A Portuguese version of this README can be added if needed.
